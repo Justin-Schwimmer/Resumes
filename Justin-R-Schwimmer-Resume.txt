@@ -1,0 +1,104 @@
+Justin R. Schwimmer                             Phone: 805-660-2000
+ 				                            Email: j.r.schwimmer@gmail.com
+
+A Full Stack Web Developer with over a decade of experience in crafting robust, high-performance web applications. Proficient in languages like PHP, Python, JavaScript, and frameworks including React, Vue, and AngularJS, I specialize in creating seamless user experiences and innovative solutions. My expertise spans back-end and front-end development, AWS, database design, and CI/CD practices.
+
+Skilled in Agile/Scrum methodologies, I lead cross-functional teams to deliver results-focused projects. Known for my problem-solving abilities, attention to detail, and proactive approach, I am committed to continuous learning, mentorship, and delivering secure, user-centered solutions that drive organizational growth.
+
+Technical Skills
+
+Languages :
+PHP	Python	ASP	ASP.Net	C#	C++	Java
+VBScript	VB.Net	TSQL	HTML	CSS	JavaScript	JSON
+XML	Lua	TypeScript	
+
+Technologies :
+Laravel	React	Vue	AngularJS	jQuery
+Ajax	Three.JS	Bootstrap	Material-UI	GraphQL
+WordPress	Magento	Shopify	Swagger	Merchant Account APIs
+MySQL	PostgreSQL	MongoDB	Oracle	NoSQL	MS SQL
+Node.js	Social Media APIs	Google APIs	RESTful APIs
+AWS (EC2, S3, RDS, Lambda)	
+
+Skills :
+Backend Dev.	Front-end Dev.	UX/UI Design	Responsive Design
+Graphic Design	Database Design	Security Best Practices
+Data Integrity	SQL Optimization	Accessibility	
+AI	Machine Learning	Image Recognition
+SEO / Branding	Social Media Marketing	PPC Ads	Lead Generation
+Web Analytics	Data Analytics	Google Analytics
+A/B Testing	CI/CD Pipelines	3D Modeling
+Shell Scripting	Debugging tools	IT / Server Admin
+Data Protection	Web Application Security	E-commerce Platforms
+Professional Highlights:
+
+-	Featured in a Newsweek article for developing a massively multiplayer online (MMO) game during the COVID-19 pandemic, providing fans of Insane Clown Posse a virtual experience of their annual summer festival, ‘The Gathering’ after its cancellation. The project demonstrated my ability to create engaging, large-scale digital environments, offering an innovative solution to connect communities remotely.
+
+-	Developed a custom content management system framework deployed across 100+ e-commerce sites, enabling streamlined content updates, enhanced site functionality, and scalable digital solutions for diverse business needs.
+
+-	Identified an innovative, cost-effective solution as a new hire at Point.360, saving the company $10K by leveraging alternatives to industry-standard practices.
+
+Professional Experience:
+
+Company: Operation Fix It……………………………………….August ‘20 – Present
+    Title: Full Stack Developer | SEO, Social Media Marketing
+    Tech: UX/UI Design, Front-end & Backend Development, Social Media APIs, Laravel, React and MySQL
+    Details: 
+Designed and developed comprehensive web applications, leveraging Laravel, MySQL and React to deliver scalable, user-centered digital experiences. I led data-driven SEO and social media marketing campaigns using APIs and data scraping, enhancing user engagement, data collection, and driving organic growth. Focused on both front-end and backend functionality, applying strong UX principles and optimizing for performance across platforms.
+
+Company: Self Employed……….....………………………………….April ’20 – August ‘20
+    Title: Lua Developer | 3D Modeler | Audio Engineer 
+    Tech: Lua, 3D Modeling Software, Audio Editing Software 
+    Details:
+Developed and implemented 3D models and Lua scripting for an MMO video game, creating an immersive virtual concert experience as an alternative to a canceled in-person festival. I combined technical skills in 3D design and audio integration to deliver an engaging, interactive platform for users during the COVID-19 pandemic.
+Company: Classic Motors Empire……….....………………February ’19 – March ‘20
+    Title: Lead Backend Developer
+    Tech: Laravel, PHP, MySQL, LAMP Stack, Converge Pay API
+    Details:
+Led backend development to automate contract management for rare car sales, creating an efficient system to collect, extract, store, and report new contracts. I enhanced company websites with new features, optimized database performance, and ensured secure, reliable data management through MySQL and the LAMP Stack.
+
+Company: Freelance Developer.....…………………….February ‘17 – February ‘19
+    Title: Freelance Full Stack Developer 
+Tech: PHP, Android, Laravel, Symfony, WordPress, JavaScript, jQuery, CSS, MySQL, SQLite
+Details:
+Delivered end-to-end development solutions for various clients, including:
+
+- SPLT: Enhanced a Laravel/React application by implementing Swagger annotations for comprehensive code documentation, improving maintainability and developer efficiency.
+
+- Avoid Getting Hosed: Designed and developed a robust data aggregation system with automated scraping, custom database architecture, and efficient data handling.
+
+I combined expertise across front-end and backend technologies to meet client-specific needs, ensuring high-quality deliverables and optimized performance.
+
+Company: Gregory Media, Inc……….....…………………………May ’16 – January ‘17 
+    Title: Lead Backend Developer
+    Tech: Laravel, PHP, WordPress, JavaScript, CSS, MySQL, LAMP Stack
+    Details:
+I led the design and implementation of a comprehensive SEO and re-branding strategy to enhance online visibility and user engagement. Developed new features to strengthen member relationships and deliver added value to services. I managed company websites, optimized database performance, and ensured smooth server operations, driving overall system efficiency and scalability.
+
+Company: VS Media / Flirt4free.com…..…………………September ‘15 – April ‘16
+    Title: LAMP Backend Developer
+    Tech: PHP, JavaScript, CSS, MySQL, LAMP Stack
+    Details:
+Developed and maintained scalable applications, focusing on user engagement and system integration. Contributed to features like gamification, video delivery, billing, fraud management, affiliate traffic, advertising tools, and accounting systems. Implemented reporting solutions to enhance data insights and support business decisions.
+
+Company: Topco Sales…..………………….............February ‘14 – September ‘15
+    Title: Front-end | Backend Dev. | Database, Network & System Admin
+    Tech: ASP.Net, IIS, MSSQL, Amazon Web Services, Android, SAP
+    Details:
+Led full lifecycle development to automate departmental processes, including website redesign, database development, and IT support for operational efficiency. Delivered scalable systems using AWS, SAP, and other technologies to optimize workflows and enhance reliability.
+
+Company: Source Marketing …………….......................May ‘06 – February ‘14
+    Title: Lead PHP | JavaScript Developer | Server & Database Admin
+    Tech: PHP, .Net, JavaScript, CSS, MySQL, MSSQL, LAMP / WAMP stacks
+    Details:
+Designed and developed a custom in-house PHP framework and CMS used across 100+ e-commerce sites, enhancing site management and scalability. Also developed .Net desktop applications to streamline workflows and improve functionality across multiple departments, reducing bottlenecks and boosting productivity.
+
+Company: Larry Flynt Publications, Inc.………….......... January ‘08 to June ‘08
+    Title: Lead PHP / JavaScript Developer / Server & Database Admin    
+    Tech: PHP, .Net, JavaScript, CSS, MySQL, MSSQL, LAMP / WAMP stacks
+    Details:
+Managed review and editing of third-party vendor code to meet company standards. I oversaw inventory of art assets, ensuring accurate image display and enhancing user experience.
+
+Education:
+
+CSUN: Bachelors of Science in Information Systems / Computer Science
